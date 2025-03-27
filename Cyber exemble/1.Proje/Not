@@ -1,14 +1,44 @@
 ASCII tablosunu kullanarak harfleri belirli bir kaydırma miktarı ile değiştiren bir program yaz.
 Bu proje basit bir şifreleme işlemini ele alınmaktadır. Proje kullanıcının girmiş olduğu sayı kadar ascıı tablosunda kaydırma yapıcaktır. Şifreleme işlemi sadece harfler için geçerli olcaktır
 
-Örnek
+1.Örnek
 Kullanıcı kaydırma miktarını 3 ve mesaji 'Merhaba Dunya' girdiğni varsayalım
-  "lutfen kaydirma miktarini giriniz: 3 "
-  "lutfen mesajinizi giriniz: Merhaba Dunya "
- Çıktısı: "Phukded Gxqbd "
+lutfen kaydirma miktarini giriniz: 3
+lutfen mesajinizi giriniz: Merhaba Dunya
+Lutfen bir secenek giriniz
+1)Msajimi sifrele
+2)Mesajin sifresini coz
+Girilen sayi: 1
+Sifreli mesaj: Phukded Gxqbd
 
 Kullanıcı sayı ve özel karakter kullanırsa her hangi bir şifreleme işlemi yapılmıycaktır.
-Örnek
- "lutfen kaydirma miktarini giriniz: 3 "
- "lutfen mesajinizi giriniz: Merhaba Dunya 8*2 "
-Çıktısı: "Phukded Gxqbd 8*2 "
+2.Örnek
+lutfen kaydirma miktarini giriniz: 3 
+lutfen mesajinizi giriniz: Merhaba Dunya 8*2
+Lutfen bir secenek giriniz
+1)Msajimi sifrele
+2)Mesajin sifresini coz
+Girilen sayi: 1
+Sifreli mesaj: Phukded Gxqbd 8*2 
+
+
+
+Kullanıcı 2.butonu şeçerse,
+1.Örnek:
+lutfen kaydirma miktarini giriniz: 3
+lutfen mesajinizi giriniz: Phukded Gxqbd
+Lutfen bir secenek giriniz
+1)Msajimi sifrele
+2)Mesajin sifresini coz
+Girilen sayi: 2
+Cozulen mesaj: Merhaba Dunya
+
+Kullanıcı sayı ve özel karakter kullanırsa her hangi bir şifreleme işlemi yapılmıycaktır.
+2.Örnek:
+lutfen kaydirma miktarini giriniz: 3
+lutfen mesajinizi giriniz: Phukded Gxqbd 8*2
+Lutfen bir secenek giriniz
+1)Msajimi sifrele
+2)Mesajin sifresini coz
+Girilen sayi: 2
+Cozulen mesaj: Merhaba Dunya 8*2
