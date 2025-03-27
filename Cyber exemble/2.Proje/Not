@@ -1,0 +1,30 @@
+🛡️ C Dili ile Orta Seviye Proje
+2️⃣ Dosya Şifreleme ve Şifre Çözme (Gelişmiş Caesar Cipher)
+Bu projede, bir txt dosyasındaki veriyi şifreleyip, daha sonra şifre çözme işlemi yapacağız.
+📝 Yapılacaklar:
+✅ Kullanıcıdan giriş dosyasının adını al.
+✅ Kullanıcıdan bir kaydırma miktarı al ve dosyadaki tüm harfleri şifrele.
+✅ Şifrelenmiş metni yeni bir dosyaya yaz.
+✅ Kullanıcı isterse şifre çözme işlemi yapabilsin.
+✅ Büyük-küçük harf duyarlılığı korunsun.
+✅ Sayılar ve özel karakterler değişmeden kalsın.
+🎯 Örnek Çalışma:
+Giriş Dosyası (metin.txt)
+mathematica
+KopyalaDüzenle
+Merhaba Dünya! 123
+Kaydırma Miktarı: 3
+Şifrelenmiş Dosya (sifreli.txt)
+nginx
+KopyalaDüzenle
+Phukded Gxqbd! 123
+Şifre Çözüldüğünde (cozuldu.txt)
+mathematica
+KopyalaDüzenle
+Merhaba Dünya! 123
+🚀 Ekstra Geliştirme Fikirleri:
+🔹 Dosya yerine kullanıcıdan alınan metni şifreleyip çözen bir mod ekleyebilirsin.
+🔹 Kaydırma miktarını rastgele oluşturup, kullanıcıya geri verebilirsin.
+🔹 Şifrelemeyi farklı yöntemlerle (örn. XOR) yapabilirsin.
+Eğer bu projeyi yapmaya karar verirsen, yazdığın kodu gönder, birlikte inceleyelim! 
+
