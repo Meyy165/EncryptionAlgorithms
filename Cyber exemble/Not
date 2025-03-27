@@ -1,0 +1,15 @@
+ASCII tablosunu kullanarak harfleri belirli bir kaydırma miktarı ile değiştiren bir program yaz.
+Bu proje basit bir şifreleme işlemini ele alınmaktadır. Proje kullanıcının girmiş olduğu sayı kadar ascıı tablosunda kaydırma yapıcaktır. Şifreleme işlemi sadece harfler için geçerli olcaktır
+
+Örnek
+Kullanıcı kaydırma miktarını 3 ve mesaji 'Merhaba Dunya' girdiğni varsayalım
+  "lutfen kaydirma miktarini giriniz: 3 "
+  "lutfen mesajinizi giriniz: Merhaba Dunya "
+ Çıktısı: "Phukded Gxqbd "
+
+Kullanıcı sayı ve özel karakter kullanırsa her hangi bir şifreleme işlemi yapılmıycaktır.
+Örnek
+ "lutfen kaydirma miktarini giriniz: 3 "
+ "lutfen mesajinizi giriniz: Merhaba Dunya 8*2 "
+Çıktısı: "Phukded Gxqbd 8*2 "
+
