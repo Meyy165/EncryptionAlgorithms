@@ -31,7 +31,7 @@ int main(){
 		case 2:
 		for(i=0;mesaj[i]!='\0';i++){
 			if(mesaj[i] >='A' && mesaj[i] <='Z'){
-			ymesaj[i]=(mesaj[i]-'A'-kym+26)%26+'A';
+			ymesaj[i]=(mesaj[i]-'A'-kym+26)%26+'A';//negatif değerleri engellemek için +26 dedik
 			 }
 			else if(mesaj[i] >= 'a' && mesaj[i] <= 'z'){
 	            	ymesaj[i]=((mesaj[i]-'a'-kym+26)%26)+'a';
