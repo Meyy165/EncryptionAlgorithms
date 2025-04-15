@@ -10,17 +10,11 @@ Bu projede, bir txt dosyasındaki veriyi şifreleyip, daha sonra şifre çözme 
 ✅ Sayılar ve özel karakterler değişmeden kalsın.
 🎯 Örnek Çalışma:
 Giriş Dosyası (metin.txt)
-mathematica
-KopyalaDüzenle
 Merhaba Dünya! 123
 Kaydırma Miktarı: 3
 Şifrelenmiş Dosya (sifreli.txt)
-nginx
-KopyalaDüzenle
 Phukded Gxqbd! 123
 Şifre Çözüldüğünde (cozuldu.txt)
-mathematica
-KopyalaDüzenle
 Merhaba Dünya! 123
 🚀 Ekstra Geliştirme Fikirleri:
 🔹 Dosya yerine kullanıcıdan alınan metni şifreleyip çözen bir mod ekleyebilirsin.
