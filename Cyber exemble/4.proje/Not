@@ -1,0 +1,8 @@
+Kullanıcıdan bir metin ve bir şifre kelimesi alarak, her harfi şifredeki karşılık gelen harf kadar alfabetik sırayla kaydırarak şifreleyen bir C programını yaz.
+Şifre, metinden kısa olabilir; bu durumda tekrar ederek kullanılacak. Harf dışındaki karakterler(boşluk, noktalama vs.) değişmeden kalacak. Her harf için ASCII değil, alfabetik pozisyona göre (a=0, b=1, ..., z=25) kaydırma yapılacak.
+
+örnek
+Lutfen bir metin giriniz : merhaba dunya, bu bir projedir. 123
+Lutfen bir sifre giriniz : xua
+Girilen metnin sifrelenmis hali
+jyreubx drhyx, yo ycr jrldeacr. 123
