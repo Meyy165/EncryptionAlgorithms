@@ -4,7 +4,7 @@ int main(){
 	
 	char parola[20];
 	int i,buyuk=0,kucuk=0,sayi=0,ozel=0,uzunluk=0;
-	printf("lutfen bir parola girin");
+	printf("lutfen bir parola girin : ");
 	scanf("%s",&parola);//paarola bosluk icermemeli bu yuzden gets kullanmadik
 	for(i=0;parola[i]!='\0';i++){
 		
