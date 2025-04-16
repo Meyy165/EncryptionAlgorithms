@@ -1,0 +1,18 @@
+Parola Güvenlik Kontrolü
+Kullanıcıdan bir parola alınız. Parolanın güvenli olup olmadığını kontrol ediniz.
+Parolanın güvenli sayılabilmesi için şu şartların hepsini sağlaması gerekir:
+
+En az 8 karakter uzunluğunda olmalı
+En az 1 büyük harf içermeli (A-Z)
+En az 1 küçük harf içermeli (a-z)
+En az 1 rakam içermeli (0-9)
+En az 1 özel karakter içermeli (harf ve rakam dışında kalan karakterler: @, !, #, %, *, vb.)
+
+örnek
+lutfen bir parola girin: Merhabadunya123,
+Girilen sifre uygundur
+
+lutfen bir parola girin : merhaba123
+Girilen sifre uygun degildir nedeni ise
+Lutfen en az bir buyuk harf kullanin
+Lutfen en az bir ozel karakter kullanin
