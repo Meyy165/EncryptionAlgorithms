@@ -1,0 +1,10 @@
+Bu soruda kullanıcıdan şifreli metni ve şifreyi alarak, Vigenère şifreleme algoritması ile şifreyi çözmeniz gerekiyor.
+
+
+Örnek
+Lutfen sifrelenmis metini giriniz : jyreubx drhyx, yo ycr jrldeacr. 123
+Lutfen bir sifre giriniz : xua
+Girilen metnin sifrelenmis hali
+merhaba dunya, bu bir projedir. 123
+
+
